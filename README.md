@@ -12,6 +12,8 @@
 ## 5. Completed the Reporting Mechanism in UVM Usage of Virtual Interface
 
 
+![Alt Text](https://www.chipverify.com/images/uvm/uvm-tb.gif)
+
 
 ### Installation
 
