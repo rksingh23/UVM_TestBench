@@ -1,0 +1,2 @@
+# UVM_TestBench
+Please find my Extensive Research and Verification Plan, //////////  Here I  -  1. Wrote testbench in UVM;  2. Understood Configuration db in UVM; 3. Implemented strategies for implementation of UVM components such as Transaction, Generator, Sequencer, Monitor, Scoreboard, Environment, Test; 4. Used TLM ports for Communication between Driver , Sequencer, Monitor, Scoreboard; 5. Completed the Reporting Mechanism in UVM Usage of Virtual Interface \\\\\\\\\\\\\\\\\\
