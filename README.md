@@ -1,5 +1,5 @@
 # UVM_TestBench to Verify Combinational Adder Circuit
-##                ................... Some of the Classes are hidden/made private for Code Exclusivity ..........                        
+##                ............ Some of the Classes are hidden/made private for Code Exclusivity ..........                        
  Please find my Extensive Research and design of Resusable UVM Agent and Verification Plan. Here I have
  
 ## 1. Wrote testbench in UVM;
