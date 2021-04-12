@@ -21,12 +21,7 @@ class driver extends uvm_driver#(transaction);
   
   virtual task run_phase(uvm_phase phase);
     super.run_phase(phase);
-     forever begin
-       seq_item_port.get_next_item(trans);
-       vif.a = trans.a;
-       vif.b = trans.b;
-       #10;
-       seq_item_port.item_done(); 
+    // Code removed for code exclusivity
      end
   endtask
   
